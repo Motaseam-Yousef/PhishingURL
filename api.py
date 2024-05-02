@@ -47,7 +47,7 @@ def check_url():
     - "We have noticed unusual activity from your account."
     - "Failure to update your details will result in account closure."
     Then its a Phishing.
-    Response only by Phishing or no , if Phishing then add some thing like this its Phishing passed on the URL, or contents 
+    Response only by Phishing YES or NO ONLY
     '''
     
     # Generate response from the model
